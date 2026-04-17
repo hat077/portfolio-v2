@@ -6,11 +6,11 @@ import { motion } from 'framer-motion';
 const Projects = () => {
     const projects = [
         {
-            title: "Student Task Manager",
-            description: "A full-stack Django application to manage academic priorities. Features include user authentication, deadline countdowns, and an analytics dashboard to visualize workload distribution.",
-            tech: ["Django", "SQLite", "Chart.js", "GitHub Actions", "CI/CD"],
-            link: "https://github.com/hat077/StudentTaskManager",
-            color: "from-purple-500 to-blue-500",
+            title: "JiraClone - Agile Workspace",
+            description: "A production-ready, multi-tenant project management platform. Features include role-based access control (RBAC), an interactive drag-and-drop Kanban board with optimistic UI, and productivity analytics.",
+            tech: ["Next.js", "FastAPI", "PostgreSQL", "Supabase", "Tailwind CSS"],
+            link: "https://jira-clone-eight-blond.vercel.app",
+            color: "from-blue-600 to-indigo-600",
         },
         {
             title: "Automated Data Pipeline",
