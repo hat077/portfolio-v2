@@ -11,7 +11,7 @@ const Hero = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
                 className="mb-6 p-2 border border-white/20 rounded-full bg-white/5">
-                <span className="text-gray-300 text-sm">Incoming Intern (Winter 2026)</span>
+                <span className="text-gray-300 text-sm">Seeking Fall 2026 Co-op Opportunities</span>
             </motion.div>
             <motion.h1
                 initial={{ opacity: 0, y: 20 }}

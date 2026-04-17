@@ -8,6 +8,7 @@ const Navbar = () => {
                 <div className="flex gap-6">
                     <Link href="#about" className="text-gray-300 hover:text-white transition-colors">About</Link>
                     <Link href="#skills" className="text-gray-300 hover:text-white transition-colors">Skills</Link>
+                    <Link href="#experience" className="text-gray-300 hover:text-white transition-colors">Experience</Link>
                     <Link href="#projects" className="text-gray-300 hover:text-white transition-colors">Projects</Link>
                     <Link href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact</Link>
                 </div>

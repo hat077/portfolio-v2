@@ -5,19 +5,19 @@ import { motion } from 'framer-motion';
 const Skills = () => {
 
     const skills = [
-        {
-            name: "Languages",
-            items: ["Python", "Java", "JavaScript", "HTML & CSS", "SQL"]
-        },
-        {
-            name: "Frameworks & Tools",
-            items: ["Django", "Selenium", "n8n", "Git", "REST APIs", "GitHub Actions"]
-        },
-        {
-            name: "Concepts",
-            items: ["OOP", "Agile / Scrum", "Data Structures", "SDLC", "Unit Testing"]
-        },
-    ];
+    {
+        name: "Languages",
+        items: ["Python", "Java", "JavaScript", "TypeScript", "SQL"]
+    },
+    {
+        name: "Frameworks & Tools",
+        items: ["Next.js", "FastAPI", "React", "Playwright", "Selenium", "n8n"]
+    },
+    {
+        name: "Concepts",
+        items: ["OOP", "Agile / Scrum", "Multi-tenancy", "SDLC", "Unit Testing"]
+    },
+];
     
     return (
         <section id="skills" className="py-20 bg-black text-white">
