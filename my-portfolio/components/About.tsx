@@ -46,7 +46,7 @@ const About = () => {
                         </div>
                         <div className="mb-6">
                             <h4 className="text-blue-400 font-bold mb-2">Performance</h4>
-                            <p className="font-medium text-lg">CGPA: 9.0 / 10</p>
+                            <p className="font-medium text-lg">CGPA: 9.2 / 10</p>
                             <p className="text-gray-500 text-sm">Dean's Honour List</p>
                         </div>
                         <div>
